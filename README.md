@@ -68,18 +68,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/geangobo/geangobo/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/geangobo/geangobo/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/geangobo/geangobo/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=geangobo.geangobo&left_color=black"  />
-
-###
-
 <h3 align="center">Contact Me</h3>
 
 ###
@@ -98,6 +86,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
 </div>
+
+###
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=geangobo.geangobo&left_color=black"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/geangobo/geangobo/output/snake.svg" alt="Snake animation" />
 
 ###
 

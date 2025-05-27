@@ -64,6 +64,7 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img src="https://images.icon-icons.com/3914/PNG/512/polars_logo_icon_248809.png" height="40" alt="Polars logo" />
 </div>
 
 ###

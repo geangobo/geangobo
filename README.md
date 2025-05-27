@@ -69,6 +69,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/N8n-logo-new.svg/2560px-N8n-logo-new.svg.png" height="40" alt="N8N logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:622/1*DnvFG8OyG4Gasi21LczSMQ.png" height="40" alt="LangChain logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Neo4j-logo2024color.png" height="40" alt="Neo4j logo"  />
   
 </div>
 
